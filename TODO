@@ -1,0 +1,4 @@
+1. Implement markdown with yaml header to html & metadata converter with Python.
+2. Output each metadata to metadata.csv as Json 
+3. Implement file organizer
+4. Set up GitHub Action which runs script 1.,2.,3 and then commits and pushes.
